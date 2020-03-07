@@ -1,6 +1,6 @@
 
 #include<stdio.h>
-#include<math.h>\
+#include<math.h>
 int main(){
 	int amp=5,star=10,k;
 	int i,j;

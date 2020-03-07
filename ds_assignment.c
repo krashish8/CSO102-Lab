@@ -1,3 +1,5 @@
+// Find LCA (Least Common Ancestor) of two given nodes in a tree given the child-parent relationship.
+
 #include<stdio.h>
 
 int main(){
